@@ -1,1 +1,1 @@
-some interesting notes
+some interesting notes I am now inserting new text with vi which I haven't done for a while
