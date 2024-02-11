@@ -3,3 +3,5 @@ some interesting notes I am now inserting new text with vi which I haven't done 
 and more here
 
 adding more info before committing
+
+add content on GitHub
